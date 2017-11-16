@@ -1,0 +1,5 @@
+/Users/marioalbertonegreterodriguez/Desktop/pruebascsharp/Pruebascsharp/Pruebascsharp/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/marioalbertonegreterodriguez/Desktop/pruebascsharp/Pruebascsharp/Pruebascsharp/bin/Debug/Pruebascsharp.pdb
+/Users/marioalbertonegreterodriguez/Desktop/pruebascsharp/Pruebascsharp/Pruebascsharp/bin/Debug/Pruebascsharp.exe
+/Users/marioalbertonegreterodriguez/Desktop/pruebascsharp/Pruebascsharp/Pruebascsharp/obj/x86/Debug/Pruebascsharp.exe
+/Users/marioalbertonegreterodriguez/Desktop/pruebascsharp/Pruebascsharp/Pruebascsharp/obj/x86/Debug/Pruebascsharp.pdb

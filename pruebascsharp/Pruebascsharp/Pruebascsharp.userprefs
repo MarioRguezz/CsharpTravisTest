@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{BC920C46-AF72-4BFA-A394-2D2AD102C6A4}|Default">
+  <MonoDevelop.Ide.ItemProperties.Pruebascsharp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pruebascsharp/Program.cs">
+    <Files>
+      <File FileName="Pruebascsharp/Program.cs" Line="7" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

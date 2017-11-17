@@ -2,8 +2,21 @@
   <MonoDevelop.Ide.ItemProperties.Pruebascsharp PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Pruebascsharp/Program.cs">
     <Files>
-      <File FileName="Pruebascsharp/Program.cs" Line="7" Column="2" />
+      <File FileName="Pruebascsharp/testing.cs" Line="7" Column="9" />
+      <File FileName="Pruebascsharp/Program.cs" Line="6" Column="24" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Pruebascsharp" expanded="True">
+            <Node name="Pruebascsharp" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

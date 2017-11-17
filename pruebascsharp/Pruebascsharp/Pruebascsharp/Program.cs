@@ -1,6 +1,4 @@
-﻿
-using System;
-
+﻿using System;
 namespace Pruebascsharp
 {
 	public class MainClass

@@ -1,5 +1,11 @@
-/Users/marioalbertonegreterodriguez/Desktop/pruebascsharp/Pruebascsharp/Pruebascsharp/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
-/Users/marioalbertonegreterodriguez/Desktop/pruebascsharp/Pruebascsharp/Pruebascsharp/bin/Debug/Pruebascsharp.pdb
-/Users/marioalbertonegreterodriguez/Desktop/pruebascsharp/Pruebascsharp/Pruebascsharp/bin/Debug/Pruebascsharp.exe
-/Users/marioalbertonegreterodriguez/Desktop/pruebascsharp/Pruebascsharp/Pruebascsharp/obj/x86/Debug/Pruebascsharp.exe
-/Users/marioalbertonegreterodriguez/Desktop/pruebascsharp/Pruebascsharp/Pruebascsharp/obj/x86/Debug/Pruebascsharp.pdb
+/Users/marioalbertonegreterodriguez/Desktop/CsharpTravisTest/pruebascsharp/Pruebascsharp/Pruebascsharp/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/marioalbertonegreterodriguez/Desktop/CsharpTravisTest/pruebascsharp/Pruebascsharp/Pruebascsharp/bin/Debug/CR_StyleCop.dll
+/Users/marioalbertonegreterodriguez/Desktop/CsharpTravisTest/pruebascsharp/Pruebascsharp/Pruebascsharp/bin/Debug/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/marioalbertonegreterodriguez/Desktop/CsharpTravisTest/pruebascsharp/Pruebascsharp/Pruebascsharp/bin/Debug/xunit.abstractions.dll
+/Users/marioalbertonegreterodriguez/Desktop/CsharpTravisTest/pruebascsharp/Pruebascsharp/Pruebascsharp/bin/Debug/xunit.assert.dll
+/Users/marioalbertonegreterodriguez/Desktop/CsharpTravisTest/pruebascsharp/Pruebascsharp/Pruebascsharp/bin/Debug/xunit.core.dll
+/Users/marioalbertonegreterodriguez/Desktop/CsharpTravisTest/pruebascsharp/Pruebascsharp/Pruebascsharp/bin/Debug/xunit.execution.dotnet.dll
+/Users/marioalbertonegreterodriguez/Desktop/CsharpTravisTest/pruebascsharp/Pruebascsharp/Pruebascsharp/bin/Debug/Pruebascsharp.pdb
+/Users/marioalbertonegreterodriguez/Desktop/CsharpTravisTest/pruebascsharp/Pruebascsharp/Pruebascsharp/bin/Debug/Pruebascsharp.exe
+/Users/marioalbertonegreterodriguez/Desktop/CsharpTravisTest/pruebascsharp/Pruebascsharp/Pruebascsharp/obj/x86/Debug/Pruebascsharp.exe
+/Users/marioalbertonegreterodriguez/Desktop/CsharpTravisTest/pruebascsharp/Pruebascsharp/Pruebascsharp/obj/x86/Debug/Pruebascsharp.pdb
